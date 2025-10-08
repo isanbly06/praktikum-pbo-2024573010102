@@ -30,9 +30,9 @@ tidak boleh dimulai dengan angka, bersifat case sensitive, dan tidak boleh mengg
 
 #### Screenshoot Hasil
 1.Code program dan outputnya
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/variabeldemo.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/variabeldemo2.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputdemo.png)
+![teks yang ingin ditampilkan](./gambar/variabeldemo.png)
+![teks yang ingin ditampilkan](./gambar/variabeldemo2.png)
+![teks yang ingin ditampilkan](./gambar/outputdemo.png)
 #### Analisa dan Pembahasan
 Pada praktikum ini, saya berhasil menuliskan berbagai jenis variabel dengan tipe data primitif dan referensi.
 Kode berjalan sesuai harapan ketika dirun, menunjukkan nilai yang diinisialisasi pada setiap variabel. Praktikum ini membantu 
@@ -49,8 +49,8 @@ nextLine() untuk string, dan nextBoolean() untuk boolean. Untuk menampilkan outp
 2.Ketik dan jalankan kode untuk mencoba penggunaan Scanner untuk input dan output.
 #### Screenshoot Hasil
 1.Code program dan output
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/inputoutput.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputdemo.png)
+![teks yang ingin ditampilkan](./gambar/inputoutput.png)
+![teks yang ingin ditampilkan](./gambar/outputdemo.png)
 #### Analisa dan Pembahasan
 Pada percobaan kali saya berhasil membuat program yang dapat menerima input dari pengguna menggunakan kelas Scanner.
 Saya menguji berbagai metode Scanner untuk membaca data berupa angka dan teks, dan program berhasil 
@@ -70,17 +70,17 @@ if-else, if-else-if, dan switch.
 4.Ketik dan jalankan kode untuk mencoba penggunaan if-else, if-else-if, dan switch.
 #### Screenshoot Hasil
 1.Code dan ouput program GradeDemo
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/grade.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputgrade.png)
+![teks yang ingin ditampilkan](./gambar/grade.png)
+![teks yang ingin ditampilkan](./gambar/outputgrade.png)
 
 2.Code dan output program MenuDemo
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/menudemo.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/menudemo2.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputmenu.png)
+![teks yang ingin ditampilkan](./gambar/menudemo.png)
+![teks yang ingin ditampilkan](./gambar/menudemo2.png)
+![teks yang ingin ditampilkan](./gambar/outputmenu.png)
 
 3.Code dan output program NestedIfDemo
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/nestedif.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputnestedif.png)
+![teks yang ingin ditampilkan](./gambar/nestedif.png)
+![teks yang ingin ditampilkan](./gambar/outputnestedif.png)
 
 #### Analisa dan Pembahasan
 Pada praktikum percabangan, saya berhasil mencoba untuk menjalankan program penentu grade, menu interaktif, dan penentu kategori usia.
@@ -100,17 +100,17 @@ Perulangan (loop) berfungsi untuk mengulang eksekusi blok kode. Java menyediakan
 4.Ketik dan jalankan kode untuk mencoba penggunaan for, while, dan do-while.
 #### Screenshoot Hasil
 1.Code dan output program ForLoopDemo
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/forloop.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputfor.png)
+![teks yang ingin ditampilkan](./gambar/forloop.png)
+![teks yang ingin ditampilkan](./gambar/outputfor.png)
 
 2.Code dan ouput program WhileLoopDemo
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/whileloop.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/whileloop2.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputwhileloop.png)
+![teks yang ingin ditampilkan](./gambar/whileloop.png)
+![teks yang ingin ditampilkan](./gambar/whileloop2.png)
+![teks yang ingin ditampilkan](./gambar/outputwhileloop.png)
 
 3.Code dan output program NestedLoopDemo
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/nestedloop.png)
-![teks yang ingin ditampilkan](/laporan/laporan1/gambar/outputnestedloop.png)
+![teks yang ingin ditampilkan](./gambar/nestedloop.png)
+![teks yang ingin ditampilkan](./gambar/outputnestedloop.png)
 
 #### Analisa dan Pembahasan
 Praktikum ini menunjukkan bagaimana perulangan dapat menyederhanakan kode. Perulangan for ideal untuk iterasi yang sudah diketahui jumlahnya,
