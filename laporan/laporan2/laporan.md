@@ -1,4 +1,5 @@
-# Laporan Modul 2: Dasar Pemrograman Java
+# Laporan Modul 3: Array Method
+
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek   
 **Nama:** Ikhsan Salsabily  
 **NIM:** 2024573010102   

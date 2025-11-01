@@ -1,4 +1,4 @@
-# Laporan Modul 4: Dasar Pemrograman Java
+# Laporan Modul 4: Konsep Dasar OOP
 
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek   
 **Nama:** Ikhsan Salsabily  
