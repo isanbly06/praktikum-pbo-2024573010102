@@ -9,10 +9,8 @@
 
 ## 1. Abstrak
 
-Laporan ini merangkum hasil praktikum Modul 2 tentang Dasar Pemrograman Java.
-Tujuannya adalah untuk memahami dan mengimplementasikan konsep-konsep dasar seperti tipe data,
-variabel, input/output, struktur kontrol percabangan (if-else dan switch),
-serta perulangan (for, while, dan do-while) melalui studi kasus.
+Laporan ini merangkum hasil praktikum Modul 5 tentang Dasar Pemrograman OOP.
+Tujuannya adalah untuk memahami dan mengimplementasikan konsep-konsep dasar dari Enkapsulasi seperti Getter, Setter melalui studi kasus.
 
 ---
 
